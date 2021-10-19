@@ -1,19 +1,19 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'https://arvinsulimto.github.io',
+  title: 'AS.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Arvin Sulimto',
+  role: 'Full Stack Developer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'Currently i am a Software Engineer - Engineering Productivity at Tokopedia and i love to explore anything especially in technology and finanical literacy',
+  resume: 'https://drive.google.com/file/d/1lXawmTPRRDCv685LbE21e7U6JgVx8pA6/view?usp=sharing',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/arvin-sulimto-b48657170/',
+    github: 'https://github.com/arvinsulimto',
   },
 }
 
@@ -49,23 +49,23 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
+  'Web Development',
+  'Android Development',
+  'Java',
+  '.NET Core',
+  'SQL',
+  'PHP',
+  'React',
+  'Javascript',
   'HTML',
   'CSS',
-  'JavaScript',
-  'TypeScript',
-  'React',
-  'Redux',
-  'SASS',
-  'Material UI',
+  'C/C++',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'arvinsulimto@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
