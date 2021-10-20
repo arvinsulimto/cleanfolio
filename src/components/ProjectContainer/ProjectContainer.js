@@ -5,8 +5,10 @@ import './ProjectContainer.css'
 
 const ProjectContainer = ({ project }) => (
   <div className='project'>
+    <img 
+      src={project.imageURL}
+      alt="logo" width="120" height="100"/>
     <h3>{project.name}</h3>
-
     <p className='project__description'>{project.description}</p>
     {project.stack && (
       <ul className='project__stack'>

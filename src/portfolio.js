@@ -21,28 +21,31 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Scopus',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Scopus is a web application for staff and lecturer at Binus University to request funding about scientific journals',
+    stack: [],
+    imageURL: "https://1.bp.blogspot.com/-ubZ9dGTHkeo/YJEZqDJbLII/AAAAAAAAE5s/KnA48vbj4ykbbdNVIHBbLbLWxf2NIrn_QCLcBGAsYHQ/s1600/Logo%2BBinus%2BUniversity.png",
+    sourceCode: '',
+    livePreview: 'https://scopus.apps.binus.ac.id/',
   },
   {
-    name: 'Project 2',
+    name: 'Florist',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Florist is a web application for manage flowers stock                                                              ',
+    stack: [],
+    imageURL: "https://images.vexels.com/media/users/3/142933/isolated/preview/b853f0361b87a27a6fc2c5bd1160b867-flat-flower-doodle.png",
+    sourceCode: 'https://github.com/arvinsulimto/Florist',
+    livePreview: '',
   },
   {
-    name: 'Project 3',
+    name: 'Movie Catalogue',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Movie Catalogue is an android application for view list movies',
+    stack: [],
+    imageURL : 'https://4.bp.blogspot.com/-7HVtWADgOro/V_X0OAM8yhI/AAAAAAAAAGE/A50g9sBOl1UhjOXVOBaBav2tEMT6xhi5QCLcB/s200/clapboard_clapper_cinema_movie_film_production_clap_video_action_play_cinematography_studio_industry_hollywood_premiere_flat_design_icon-512.png',
+    sourceCode: 'https://github.com/arvinsulimto/MovieCatalogue',
+    livePreview: '',
   },
 ]
 
